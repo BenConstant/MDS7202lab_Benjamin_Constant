@@ -1,0 +1,92 @@
+----------Columnna Dataset: Name-----------------------
+ 
+	Name
+Valores nulos	0
+total_unicos	77009.0
+dtype column	object
+ 
+----------Columnna Dataset: Sex-----------------------
+ 
+	Sex
+Valores nulos	0
+total_unicos	0.0
+dtype column	object
+ 
+----------Columnna Dataset: Team-----------------------
+ 
+	Team
+Valores nulos	0
+total_unicos	103.0
+dtype column	object
+ 
+----------Columnna Dataset: NOC-----------------------
+ 
+	NOC
+Valores nulos	0
+total_unicos	1.0
+dtype column	object
+ 
+----------Columnna Dataset: Games-----------------------
+ 
+	Games
+Valores nulos	0
+total_unicos	0.0
+dtype column	object
+ 
+----------Columnna Dataset: Season-----------------------
+ 
+	Season
+Valores nulos	0
+total_unicos	0.0
+dtype column	object
+ 
+----------Columnna Dataset: City-----------------------
+ 
+	City
+Valores nulos	0
+total_unicos	0.0
+dtype column	object
+ 
+----------Columnna Dataset: Sport-----------------------
+ 
+	Sport
+Valores nulos	0
+total_unicos	1.0
+dtype column	object
+ 
+----------Columnna Dataset: Event-----------------------
+ 
+	Event
+Valores nulos	0
+total_unicos	1.0
+dtype column	object
+ 
+----------Columnna Dataset: Medal-----------------------
+ 
+	Medal
+Valores nulos	231333.0
+total_unicos	0.0
+dtype column	object
+ 
+----------Columnna Dataset: age-height-weight-----------------------
+ 
+	age-height-weight
+Valores nulos	0
+total_unicos	41466.0
+dtype column	object
+ 
+----------Columnna Dataset: Year-----------------------
+ 
+	Year
+count	271116.0
+mean	1978.3784800601957
+std	29.877631985612652
+min	1896.0
+25%	1960.0
+50%	1988.0
+75%	2002.0
+max	2016.0
+Negativo	0.0
+Cero	0.0
+outliers	261881.0
+ 
